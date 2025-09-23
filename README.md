@@ -114,7 +114,8 @@ A feature importance analysis revealed that Reading Score and Writing Score were
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 📧 Contact
-Your Name - 2k23.csaiml2313622@gmail.com
+Aishwarya Mishra - 2k23.csaiml2313622@gmail.com
 
 Project Link: https://github.com/2k23.csaiml2313622-code/mlproject
+
 
